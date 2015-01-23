@@ -1,6 +1,6 @@
 {
   "name": "passport-disqus",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Disqus (OAuth2) authentication strategies for Passport.",
   "keywords": [
     "passport",
@@ -12,15 +12,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mihs/passport-disqus.git"
+    "url": "git://github.com/andreycrane/passport-disqus.git"
   },
   "bugs": {
-    "url": "http://github.com/mihs/passport-disqus/issues"
+    "url": "http://github.com/andreycrane/passport-disqus/issues"
   },
   "author": {
-    "name": "Mihnea Scafes",
-    "email": "mihnea@nagemus.com",
-    "url": "https://github.com/mihs"
+    "name": "Mihnea Scafes, Andrey Zhuravlyov",
+    "email": "mihnea@nagemus.com, crane.andrey@gmail.com",
+    "url": "https://github.com/mihs, https://github.com/andreycrane"
   },
   "licenses": [
     {
